@@ -48,7 +48,7 @@ Abra a classe link:src/main/java/exercicios/Aula04.java[Aula04.java] e implement
 
 === Aula 07
 
-Abra a classe link:src/main/java/exercicios/Aula07.java[Aula07.java] e:
+Abra a classe link:src/main/java/exercicios/exercicios.Aula07.java[exercicios.Aula07.java] e:
 - implemente os métodos disponíveis lá - tais métodos devem ser implementados utilizando Streams e Lambdas;
 - declare atributos para armazenar `Comparators` compostos; reutilize eles onde for necessário na classe.
 
